@@ -2,6 +2,8 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>SimpliProcessEmpty.ApexClass</members>
+        <members>SimpliProcessHelloWorld.ApexClass</members>
+        <members>SimpliFrameworkHelper.ApexClass</members>
         <name>ApexClass</name>
     </types>
     <types>
