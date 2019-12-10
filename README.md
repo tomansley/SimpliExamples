@@ -1,4 +1,4 @@
-# Salesforce App
+# Simpli Integration Manager Example Repo
 
 This repo helps Simpli Integration Manager developers go from zero to a working extension.
 
