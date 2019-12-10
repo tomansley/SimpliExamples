@@ -3,7 +3,10 @@
     <types>
         <members>SimpliProcessEmpty.ApexClass</members>
         <members>SimpliProcessHelloWorld.ApexClass</members>
+        <members>SimpliProcessHelloWorldTest.ApexClass</members>
         <members>SimpliFrameworkHelper.ApexClass</members>
+        <members>SimpliProcessBatchEmpty.ApexClass</members>
+        <members>SimpliProcessBatchHelloWorld.ApexClass</members>
         <name>ApexClass</name>
     </types>
     <types>
