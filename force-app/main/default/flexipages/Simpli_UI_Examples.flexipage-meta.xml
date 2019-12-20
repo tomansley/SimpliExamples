@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlexiPage xmlns="http://soap.sforce.com/2006/04/metadata">
+    <flexiPageRegions>
+        <componentInstances>
+            <componentInstanceProperties>
+                <name>decorate</name>
+                <value>true</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>richTextValue</name>
+                <value>&lt;p&gt;&lt;b&gt;Simpli Component Examples&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;These are 3 examples of using the Simpli UI component within a Lightning app page. The component can be configured to handle any configured process. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Once Simpli has been installed within an org go into Lightning App Builder.&lt;/li&gt;&lt;li&gt;Create a new page.&lt;/li&gt;&lt;li&gt;Drag the Simpli UI component on to the page.&lt;/li&gt;&lt;li&gt;Select the component and set the Simpli process that should be displayed.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;That&#39;s it!! &lt;/p&gt;</value>
+            </componentInstanceProperties>
+            <componentName>flexipage:richText</componentName>
+        </componentInstances>
+        <name>region1</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <componentInstances>
+            <componentInstanceProperties>
+                <name>componentHeight</name>
+                <value>200</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>selectedConfigName</name>
+                <value>Example - Account Insert</value>
+            </componentInstanceProperties>
+            <componentName>Simpli:simpliUIComponent</componentName>
+        </componentInstances>
+        <name>region2</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <componentInstances>
+            <componentInstanceProperties>
+                <name>componentHeight</name>
+                <value>200</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>selectedConfigName</name>
+                <value>Example - Opportunity Insert</value>
+            </componentInstanceProperties>
+            <componentName>Simpli:simpliUIComponent</componentName>
+        </componentInstances>
+        <name>region3</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <componentInstances>
+            <componentInstanceProperties>
+                <name>componentHeight</name>
+                <value>200</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>selectedConfigName</name>
+                <value>Example - Case Create - Electrical Issue</value>
+            </componentInstanceProperties>
+            <componentName>Simpli:simpliUIComponent</componentName>
+        </componentInstances>
+        <name>region4</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <masterLabel>Simpli UI Examples</masterLabel>
+    <template>
+        <name>flexipage:appHomeTemplateHeaderThreeColumns</name>
+    </template>
+    <type>AppPage</type>
+</FlexiPage>

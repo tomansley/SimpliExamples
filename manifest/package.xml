@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>SimpliProcessEmpty.ApexClass</members>
-        <members>SimpliProcessHelloWorld.ApexClass</members>
-        <members>SimpliProcessHelloWorldTest.ApexClass</members>
-        <members>SimpliFrameworkHelper.ApexClass</members>
-        <members>SimpliProcessBatchEmpty.ApexClass</members>
-        <members>SimpliProcessBatchHelloWorld.ApexClass</members>
+        <members>SimpliProcessEmpty</members>
+        <members>SimpliProcessHelloWorld</members>
+        <members>SimpliProcessHelloWorldTest</members>
+        <members>SimpliFrameworkHelper</members>
+        <members>SimpliProcessBatchEmpty</members>
+        <members>SimpliProcessBatchHelloWorld</members>
         <name>ApexClass</name>
     </types>
     <types>
         <members>*</members>
         <name>ApexComponent</name>
+    </types>
+    <types>
+        <members>Simpli_UI_Examples</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>LightningComponentBundle</name>
     </types>
     <version>47.0</version>
 </Package>
