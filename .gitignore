@@ -4,3 +4,4 @@
 .sfdx/typings/lwc/engine.d.ts
 .sfdx/typings/lwc/apex.d.ts
 .sfdx/tools/apex.db
+.sfdx/tools/apex.db
