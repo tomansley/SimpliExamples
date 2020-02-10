@@ -4,7 +4,9 @@ This repo helps Simpli Integration Manager developers go from zero to a working 
 
 ## Part 1: Install the Simpli Integration Manager
 
-The first thing is to install the Simpli Integration Manager from the AppExchange. This code will not work without the app installed.
+The first thing is to install the Simpli Integration Manager from the AppExchange. This code will not work without the app installed. There are a few ways of getting the app. There is a "Try Now"
+version although being read-only no configs can be processed. The recommended approach for trying things
+out is to "Get It Now" and install into a developer edition org.
 
 ## Part 2: Explore the Simpli Interface App
 
